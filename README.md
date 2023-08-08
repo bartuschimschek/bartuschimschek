@@ -4,7 +4,7 @@
 I'm <b>Bartu</b>, <br>a <b>biomedical engineer</b> and <b>AI researcher</b> <br>passionate about using AI to solve real-world problems in <b>medicine 🩺 & chemistry 🧪</b>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bartusimsek/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartusimsek/)
 
 
 
